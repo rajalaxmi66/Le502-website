@@ -1,0 +1,19 @@
+.catalogue {
+  padding: 2rem;
+}
+
+.catalogue h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.catalogue ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.catalogue ul li {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
